@@ -1,1 +1,2 @@
 this line causes merge conflict
+adding second line
