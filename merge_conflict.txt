@@ -1,0 +1,3 @@
+to show merge conflict in this line
+adding second line
+adding third line
